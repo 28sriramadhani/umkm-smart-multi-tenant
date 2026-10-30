@@ -53,7 +53,7 @@ data usahanya sendiri. Hak akses Karyawan ditentukan oleh Super Admin.
 - **Pemisahan data antar-usaha**: data produk, transaksi, dan lainnya difilter
   berdasarkan usaha milik akun yang login
 - **RBAC**: menu dan fitur dibatasi berdasarkan peran dan hak akses
-- Pengujian keamanan antar-usaha masih berlangsung
+- telah diuji: akun satu usaha tidak dapat mengakses atau mengubah data usaha lain.
 
 ## 💰 Perhitungan Laporan Keuntungan
 `Keuntungan bersih = Total penjualan − Total modal produk − Total pengeluaran usaha`
