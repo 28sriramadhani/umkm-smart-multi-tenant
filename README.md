@@ -104,7 +104,7 @@ Database `umkm_smart` terdiri dari 12 tabel:
 ![Transaksi](screenshots/transaksi.png)
 
 ### Dashboard Karyawan
-![Karyawan](screenshots/karyawan.png)
+![Dashboard Karyawan](screenshots/karyawan.png)
 
 ## 📂 Source Code
 Source code tersedia atas permintaan. Silakan hubungi sriramadani596@gmail.com.
