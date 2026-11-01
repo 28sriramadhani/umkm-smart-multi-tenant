@@ -55,8 +55,7 @@ data usahanya sendiri. Hak akses Karyawan ditentukan oleh Super Admin.
 - **RBAC**: menu dan fitur dibatasi berdasarkan peran dan hak akses
 - telah diuji: akun satu usaha tidak dapat mengakses atau mengubah data usaha lain.
 
-## 💰 Perhitungan Laporan Keuntungan
-`Keuntungan bersih = Total penjualan − Total modal produk − Total pengeluaran usaha`
+
 
 ## 🗄️ Struktur Database
 Database `umkm_smart` terdiri dari 12 tabel:
